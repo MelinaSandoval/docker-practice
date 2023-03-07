@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="discount-module">
+    <test name="homePagePantsDiscountTest">
+        <classes>
+            <class name="com.solvd.luma.DiscountApplicationTest"/>
+        </classes>
+    </test>
+    <test name="homePageTeesDiscountTest">
+        <classes>
+            <class name="com.solvd.luma.DiscountApplicationTest"/>
+        </classes>
+    </test>
+</suite>
